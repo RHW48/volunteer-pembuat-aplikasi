@@ -6,4 +6,5 @@ Silakan gunakan format berikut:<br>
 **\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
 
 Berikut adalah daftar Volunter yang diterima:
-* Robertos H Wijaya, (https://github.com/RHW48).
+* Robertos H Wijaya,[Github](https://github.com/RHW48).
+* Robertos Wijaya [Linkedin](https://www.linkedin.com/in/robertos-wijaya/).
