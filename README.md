@@ -7,4 +7,4 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar Volunter yang diterima:
 * Robertos H Wijaya,[Github](https://github.com/RHW48).
-* Robertos Wijaya {Linkedin}(https://www.linkedin.com/in/robertos-wijaya/).
+* Robertos Wijaya [Linkedin](https://www.linkedin.com/in/robertos-wijaya/).
